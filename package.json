@@ -1,0 +1,14 @@
+{
+  "name": "unmei-ai-showcase",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Public portfolio showcase for UNMEI. Core proprietary judgment logic is intentionally omitted.",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^3.0.0"
+  }
+}
