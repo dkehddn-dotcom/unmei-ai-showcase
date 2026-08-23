@@ -3,6 +3,8 @@
 > **AIは、人の未来をどこまで予測できるのか。**  
 > 四柱推命の判断構造をアルゴリズムとして整理し、再現可能な判断とAIによる説明を分離して検証している個人開発プロジェクトです。
 
+![UNMEI prototype](screenshots/landing-page.jpg)
+
 ## このリポジトリについて
 
 このリポジトリは、実開発中の **UNMEI** を面接・ポートフォリオ用途で説明するための **Public Showcase** です。
@@ -66,6 +68,10 @@ flowchart LR
 | Daewoon Integration | Later phase |
 
 > 内部の命理ルールや裁定条件はこの公開版には含めていません。
+
+### 実際のモジュール構成（公開可能範囲のみ）
+
+![Judgment module structure](screenshots/judgment-structure.jpg)
 
 ---
 
